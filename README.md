@@ -1,6 +1,6 @@
 # Loan Policies and Procedures and Outgoing Loan Agreement
 
-The Rockefeller Archive Center's policy and agreement form for the loan of
+The Rockefeller Archive Center's policy and agreement specifications for the loan of
 materials to nonprofit museums, institutions, and galleries for temporary exhibits and installations of educational significance.
 
 ## Accessing the documents

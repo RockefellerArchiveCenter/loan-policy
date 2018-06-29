@@ -1,6 +1,6 @@
 # Rockefeller Archive Center Outgoing Loan Agreement
 
-AGREEMENT
+AGREEMENT  
 The Rockefeller Archive Center hereby lends to the borrower identified below the object(s) described herein for the purposes and subject to the terms and conditions set forth.
 _____________________________________________________________________________________________
 BORROWER INFORMATION  

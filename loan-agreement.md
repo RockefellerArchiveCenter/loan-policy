@@ -3,49 +3,48 @@
 ## Agreement  
 The Rockefeller Archive Center hereby lends to the borrower identified below the object(s) described herein for the purposes and subject to the terms and conditions set forth.
 _____________________________________________________________________________________________
-BORROWER INFORMATION  
-Borrower:
-Address:
-Telephone:
-Email:
-Contact Name and Title:
+BORROWER INFORMATION    
+Borrower:  
+Address:  
+Telephone:  
+Email:  
+Contact Name and Title:  
 
-OBJECT  
-ID/Accession Number:
-Provenance/Creator:
-Object/Title:
-Format:
-Date of Work:
-Dimensions of Object:
-Note if with frame or mount:
-Weight (if applicable):
+OBJECT    
+ID/Accession Number:  
+Provenance/Creator:  
+Object/Title:  
+Format:  
+Date of Work:  
+Dimensions of Object:  
+Note if with frame or mount:  
+Weight (if applicable):  
 Credit Line (for use in exhibit label and catalog):
 
 
-EXHIBITION  
-Period of Loan:
-Exhibition Title:
-Venue(s) and Date(s):
+EXHIBITION    
+Period of Loan:  
+Exhibition Title:  
+Venue(s) and Date(s):  
 
-INSURANCE  
+INSURANCE    
 Insurance value to be carried by borrower (in U.S dollars):
 
-SHIPPING/PACKING  
-Unless otherwise specified, all objects will be released from and returned to:
+SHIPPING/PACKING    
+Unless otherwise specified, all objects will be released from and returned to:  
 The Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, New York 10591, USA
 
-DISPLAY    
-Exhibition must meet AAM’s Standards and Best Practices
-Special display requirements:
+DISPLAY      
+Exhibition must meet AAM’s Standards and Best Practices Special display requirements:
 
-SIGNATURE  
+SIGNATURE    
 The borrower acknowledges that he/she has full authority and power to enter into this agreement, that he/she has read the conditions above and on the back of this form and that he/she agrees to be bound by them.
 
 Signature:_______________________________________________	Date:_____________________
-		         The Rockefeller Archive Center
+		         (The Rockefeller Archive Center)
 
 Signature:_______________________________________________	Date:_____________________
-			             Borrower
+			             (Borrower)
 
 ## Outgoing Loan Conditions
 

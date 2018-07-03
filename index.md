@@ -1,4 +1,7 @@
-# Rockefeller Archive Center Loan Policies and Procedures
+---
+layout: docs
+title:  "Loan Policies and Procedures"
+---
 
 ## Policies
 •	The Rockefeller Archive Center (“RAC”) will consider loans only to nonprofit museums, institutions, and galleries for temporary exhibits and installations of educational significance.

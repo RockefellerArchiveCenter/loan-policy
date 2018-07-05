@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Loan Policies and Procedures"
+title:  "Rockefeller Archive Center Loan Policies and Procedures"
 ---
 
 ## Policies

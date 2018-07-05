@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Outgoing Loan Agreement"
+title:  "Rockefeller Archive Center Outgoing Loan Agreement"
 ---
 
 ## Agreement  

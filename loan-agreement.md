@@ -5,7 +5,7 @@ title:  "Outgoing Loan Agreement"
 
 ## Agreement  
 The Rockefeller Archive Center hereby lends to the borrower identified below the object(s) described herein for the purposes and subject to the terms and conditions set forth.
-_____________________________________________________________________________________________
+* * *
 BORROWER INFORMATION    
 Borrower:  
 Address:  
@@ -43,10 +43,10 @@ Exhibition must meet AAM’s Standards and Best Practices Special display requir
 SIGNATURE    
 The borrower acknowledges that he/she has full authority and power to enter into this agreement, that he/she has read the conditions above and on the back of this form and that he/she agrees to be bound by them.
 
-Signature:_______________________________________________	Date:_____________________
+Signature: _______________________________________________	Date: _____________________
 		         (The Rockefeller Archive Center)
 
-Signature:_______________________________________________	Date:_____________________
+Signature: _______________________________________________	Date: _____________________
 			             (Borrower)
 
 ## Outgoing Loan Conditions

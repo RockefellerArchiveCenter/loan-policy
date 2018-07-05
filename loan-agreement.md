@@ -43,10 +43,10 @@ Exhibition must meet AAM’s Standards and Best Practices Special display requir
 SIGNATURE    
 The borrower acknowledges that he/she has full authority and power to enter into this agreement, that he/she has read the conditions above and on the back of this form and that he/she agrees to be bound by them.
 
-Signature: _______________________________________________	Date: _____________________
+Signature: ________________________________________________	Date: ______________________
 		         (The Rockefeller Archive Center)
 
-Signature: _______________________________________________	Date: _____________________
+Signature: ________________________________________________	Date: ______________________
 			             (Borrower)
 
 ## Outgoing Loan Conditions

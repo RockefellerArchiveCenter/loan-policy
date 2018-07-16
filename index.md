@@ -84,3 +84,6 @@ title:  "Rockefeller Archive Center Loan Policies and Procedures"
 •	No repairs, rehousing, or other actions may be taken towards the RAC material without instructions from RAC administration.
 
 •	The borrower is responsible for any damage or loss to loan materials and must reimburse the RAC for the cost of conservation, replacement, or reduction in value.
+
+## Outgoing Loan Agreement Form
+The form can be found locally in the RAC shared drive at S:\R+E Projects\Loan Program\Forms

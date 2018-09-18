@@ -1,0 +1,9 @@
+public: false
+type: "docs"
+tags:
+  - "policy"
+  - "loans"
+title: "Loan Policies and Procedures"
+description: "The policy and procedures for the loan of RAC materials."
+pages:
+  - ["Loan Policies and Procedures", "index"]

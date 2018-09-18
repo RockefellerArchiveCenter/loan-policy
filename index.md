@@ -4,7 +4,7 @@ title:  "Rockefeller Archive Center Loan Policies and Procedures"
 ---
 
 ## Policies
-- The Rockefeller Archive Center (“RAC”) will consider loans only to nonprofit museums, institutions, and galleries for temporary exhibits and installations of educational significance.
+- The Rockefeller Archive Center (“RAC”) will consider loans only to nonprofit museums, libraries, archives and other educational institutions for significant temporary exhibitions.
 - The RAC will only loan properly accessioned and catalogued material for which the RAC has ownership – no third party loans are permitted.
 - All loans must be reviewed and approved by the President of the RAC, which will include a preservation review of the requested item, and a discussion of exhibition conditions.
 - The RAC may deny a request for loans, or require the use of a facsimile in lieu of the original object.
@@ -25,7 +25,7 @@ title:  "Rockefeller Archive Center Loan Policies and Procedures"
 - Additional fees for any necessary conservation or preparation by RAC staff will be billed to the borrowing institution at an hourly rate of $50.
 - The borrower will be responsible for the costs of all exhibition preparation, packing, shipping arrangements, and conservation work; all such tasks must be coordinated with the RAC. Estimated costs of such related work will be included in the initial loan approval, so the borrower has a sense of their obligations before the loan agreement is signed.
 - Additional vendor fees, such as per diems for couriers, will be borne by the borrowing institution.
-- In the event that a loan is canceled before its been fully executed, the borrower will be responsible for all services provided to date, as well as the full processing fee.
+- In the event that a loan is canceled before it has been fully executed, the borrower will be responsible for all services provided to date, as well as the full processing fee.
 
 ### Insurance
 - Insurance coverage, provided by the borrower, must be under an all-risk fine arts “wall to wall” policy from the point of pickup from the original location of the loan materials, during transit and exhibition, until the loan materials are returned to RAC storage and a final condition review has been completed.
@@ -52,6 +52,3 @@ title:  "Rockefeller Archive Center Loan Policies and Procedures"
 - In the event that RAC loan material is damaged, destroyed, lost, or stolen, the borrower will give RAC administration immediate notice, followed by written confirmation, including details of the extent and circumstances of the mishap.
 - No repairs, rehousing, or other actions may be taken towards the RAC material without instructions from RAC administration.
 - The borrower is responsible for any damage or loss to loan materials and must reimburse the RAC for the cost of conservation, replacement, or reduction in value.
-
-## Outgoing Loan Agreement Form
-The form can be found locally in the RAC shared drive at S:\R+E Projects\Loan Program\Forms

@@ -1,6 +1,8 @@
 public: true
 type: "docs"
-category: ["collection development and management", "reference and outreach"]
+category: 
+  - "collection development and management" 
+  - "reference and outreach"
 tags:
   - "policy"
 title: "Loan Policies and Procedures"
